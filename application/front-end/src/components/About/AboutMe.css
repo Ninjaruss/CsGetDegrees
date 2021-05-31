@@ -1,0 +1,49 @@
+.column {
+  float: left;
+  padding: 1rem;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.imgcol{
+  width: 15%;
+}
+
+.contentcol{
+  width: 85%;
+  padding-top: 6%;
+}
+
+.roll{
+  padding: 0.1rem;
+}
+
+.aboutroll{
+  height: 20%;
+}
+
+.contentroll{
+  height: 80%; 
+}
+
+.myimg {
+  border-radius: 50%;
+  border: 0.3rem solid #ccc;
+  padding: 0.1rem;
+  margin-top: 20%;
+  width: 100%;
+}
+
+.mybody{
+  padding: 2rem 2rem;
+}
+
+.myhr{
+  border: none; 
+  height: 5px; 
+  background: black; 
+}
