@@ -13,7 +13,7 @@ Timothy Wells - Backend Developer
 ## Project Description
 A website that is designed to meet the expectations of an e-commerce website. This project utilizes the Flask Python web framework and MySQL database on the backend. 
 
-## What I Learned?
+## What I Learned
 - Active communication with team members to complete tasks and solve problems
 - Unit commits and tests of code for easier debugging process
 - MySQL database queries
