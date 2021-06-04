@@ -1,4 +1,4 @@
-# CsGetDegrees Website
+# C's Get Degrees Website
 A final group project for CSC648 Software Engineering Spring 2020.
 
 ## Members
