@@ -16,6 +16,7 @@ A website that is designed to meet the expectations of an e-commerce website. Th
 ## What I Learned
 - Active communication with team members to complete tasks and solve problems
 - Unit commits and tests of code for easier debugging process
+- Experience with the Agile development process
 - MySQL database queries
 - Utilization of MySQL workbench
 - Creation of API method calls 
