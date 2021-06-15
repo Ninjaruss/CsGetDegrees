@@ -17,7 +17,7 @@ A website that is designed to meet the expectations of an e-commerce website. Th
 - Active communication with team members to complete tasks and solve problems
 - Unit commits and tests of code for easier debugging process
 - Experience with the Agile development process
-- MySQL database queries
+- MySQL database queries and relational design
 - Utilization of MySQL workbench
 - Creation of API method calls 
 - Json formatting and error handling
